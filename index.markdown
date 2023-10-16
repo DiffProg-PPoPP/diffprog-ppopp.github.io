@@ -5,8 +5,6 @@
 layout: home
 ---
 
-# About
-
 This workshop aims to bring together researchers interested in automatic differentiation methods, tools and frameworks, and practitioners who need derivatives and gradients for parallel or HPC workloads, in application areas spanning applied mathematics, scientific computing, computational engineering, and machine learning. The workshop features invited talks from both the framework developer and user communities, and is soliciting extended abstracts for contributed talks on topics including, but not limited to
 
 * Automatic differentiation tool development
