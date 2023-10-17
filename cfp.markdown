@@ -4,7 +4,7 @@ title: CfP
 permalink: /cfp/
 ---
 
-The workshop is soliciting extended abstracts for contributed talks on topics including, but not limited to:
+We are soliciting extended abstracts for contributed talks on topics including, but not limited to:
 
 * Automatic differentiation tool development
 * Model, theory, and method development for the differentiation of computer programs

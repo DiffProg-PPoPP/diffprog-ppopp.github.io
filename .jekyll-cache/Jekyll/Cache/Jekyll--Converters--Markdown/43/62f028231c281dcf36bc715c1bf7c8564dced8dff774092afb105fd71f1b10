@@ -1,0 +1,34 @@
+I"#<p>We are soliciting extended abstracts for contributed talks on topics including, but not limited to:</p>
+
+<ul>
+  <li>Automatic differentiation tool development</li>
+  <li>Model, theory, and method development for the differentiation of computer programs</li>
+  <li>Differentiable languages, or domain-specific languages or frameworks that support differentiation or gradient computations</li>
+  <li>Case studies, and experiences of computing derivatives of parallel or large-scale computations, or of trying to scale differentiable applications</li>
+  <li>Approaches closely related to differentiation, which may include aspects of e.g. probabilistic programming, uncertainty quantification, or error estimation.</li>
+</ul>
+
+<p>While we encourage novel submissions, we also accept talks on previously published material. The workshop is intended as an informal venue for discussions between developers and users about ongoing or unfinished work, as well as existing methods that are not yet widely used by all relevant communities. Accepted abstracts will be shared on the workshop website, but will otherwise not lead to a formal publication.</p>
+
+<p>Abstracts need to use the following template, and be a maximum of two pages:</p>
+
+<ul>
+  <li><a href="">Overleaf</a></li>
+  <li><a href="/assets/zip/DiffProgPPoPPTemplate.zip">Template as a zip</a></li>
+</ul>
+
+<p>References do not count towards the page limit. The review process is single-blind, extended abstracts do not need to be anonymized.</p>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<ul>
+  <li>Abstract Submission: December 8, 23:59 AOE</li>
+  <li>Notification: January 8, 23:59 AOE</li>
+</ul>
+
+<h2 id="submission-portal">Submission Portal</h2>
+
+<p>For submissions we use TODO, please submit your abstracts here:</p>
+
+<h2 align="center">Submission Link</h2>
+:ET
