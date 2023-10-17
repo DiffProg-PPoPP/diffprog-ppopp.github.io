@@ -2,7 +2,6 @@
 layout: page
 title: Invited Talks
 permalink: /talks/
-order: 1
 ---
 
 <h2 align='center'>Harshitha Menon</h2>

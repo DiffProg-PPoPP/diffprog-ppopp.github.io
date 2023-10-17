@@ -2,7 +2,6 @@
 layout: page
 title: CfP
 permalink: /cfp/
-order: 2
 ---
 
 We are soliciting extended abstracts for contributed talks on topics including, but not limited to:
