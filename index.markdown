@@ -19,6 +19,13 @@ This workshop aims to bring together researchers interested in automatic differe
 * Notification: January 8, 23:59 AOE
 * Workshop during: 2nd of March
 
+## Invited Speakers
+
+* [Harshitha Menon](http://www.harshithamenon.com)
+* [Tzu-Mao Li](https://cseweb.ucsd.edu/~tzli/)
+* [Alex Zinenko](https://ozinenko.com)
+* [Francois Lanusse](https://flanusse.net)
+
 ## Organizers
 
 * [Jan Hueckelheim](https://www.anl.gov/profile/jan-huckelheim)
