@@ -17,7 +17,7 @@ This workshop aims to bring together researchers interested in automatic differe
 
 * Abstract Submission: December 8, 23:59 AOE
 * Notification: January 8, 23:59 AOE
-* Workshop during PPoP, held 2nd-6th of March
+* Workshop during: 2nd of March
 
 ## Organizers
 
