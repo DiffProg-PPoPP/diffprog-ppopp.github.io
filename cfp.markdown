@@ -4,15 +4,30 @@ title: CfP
 permalink: /cfp/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The workshop is soliciting extended abstracts for contributed talks on topics including, but not limited to:
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+* Automatic differentiation tool development
+* Model, theory, and method development for the differentiation of computer programs
+* Differentiable languages, or domain-specific languages or frameworks that support differentiation or gradient computations
+* Case studies, and experiences of computing derivatives of parallel or large-scale computations, or of trying to scale differentiable applications
+* Approaches closely related to differentiation, which may include aspects of e.g. probabilistic programming, uncertainty quantification, or error estimation.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+While we encourage novel submissions, we also accept talks on previously published material. The workshop is intended as an informal venue for discussions between developers and users about ongoing or unfinished work, as well as existing methods that are not yet widely used by all relevant communities. Accepted abstracts will be shared on the workshop website, but will otherwise not lead to a formal publication.
 
+Abstracts need to use the following template, and be a maximum of two pages:
 
-[jekyll-organization]: https://github.com/jekyll
+* [Overleaf]()
+* [Template as a zip]({{site.baseurl}}/assets/zip/DiffProgPPoPPTemplate.zip)
+
+References do not count towards the page limit. The review process is single-blind, extended abstracts do not need to be anonymized.
+
+## Important Dates
+
+* Abstract Submission: December 8, 23:59 AOE
+* Notification: January 8, 23:59 AOE
+
+## Submission Portal
+
+For submissions we use TODO, please submit your abstracts here:
+
+<h2 align='center'>Submission Link</h2>
