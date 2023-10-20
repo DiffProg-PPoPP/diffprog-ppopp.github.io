@@ -16,7 +16,7 @@ While we encourage novel submissions, we also accept talks on previously publish
 
 Abstracts need to use the following template, and be a maximum of two pages:
 
-* [Overleaf]()
+* [Overleaf](https://www.overleaf.com/latex/templates/differentiable-programming-workshop-at-ppopp24-template/fqvftgxzvgvd)
 * [Template as a zip]({{site.baseurl}}/assets/zip/DiffProgPPoPPTemplate.zip)
 
 References do not count towards the page limit. The review process is single-blind, extended abstracts do not need to be anonymized.
