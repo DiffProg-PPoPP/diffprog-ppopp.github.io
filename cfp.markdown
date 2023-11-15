@@ -31,5 +31,5 @@ References do not count towards the page limit. The review process is single-bli
 We use [Microsoft CMT](https://cmt3.research.microsoft.com) for submissions, please submit your abstracts here:
 
 <h1 align='center'>
-  <a href="[https://www.w3schools.com](https://cmt3.research.microsoft.com/WDPP2024/Submission/Index)https://cmt3.research.microsoft.com/WDPP2024/Submission/Index">Submission Link</a>
+  <a href="https://cmt3.research.microsoft.com/WDPP2024/Submission/Index">Submission Link</a>
 </h1>
