@@ -30,4 +30,4 @@ References do not count towards the page limit. The review process is single-bli
 
 We use [Microsoft CMT](https://cmt3.research.microsoft.com) for submissions, please submit your abstracts here:
 
-<h2 align='center'>[Submission Link](https://cmt3.research.microsoft.com/WDPP2024/Submission/Index)</h2>
+<align='center'>[Submission Link](https://cmt3.research.microsoft.com/WDPP2024/Submission/Index)<>
