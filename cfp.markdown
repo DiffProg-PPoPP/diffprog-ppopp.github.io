@@ -23,7 +23,7 @@ References do not count towards the page limit. The review process is single-bli
 
 ## Important Dates
 
-* Abstract Submission: December 8, 23:59 AOE
+* Abstract Submission: December ~8~ 22, 23:59 AOE
 * Notification: January 8, 23:59 AOE
 
 ## Submission Portal
