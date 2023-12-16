@@ -15,7 +15,7 @@ This workshop aims to bring together researchers interested in automatic differe
 
 ## Important Dates
 
-* Abstract Submission: December 8, 23:59 AOE
+* Abstract Submission: December 22, 23:59 AOE
 * Notification: January 8, 23:59 AOE
 * Workshop during: 2nd of March
 
