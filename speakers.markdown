@@ -9,7 +9,7 @@ weight: 95
 
 <p align="center">
 	<a rel="nofollow">	
-		<img src="{{site.baseurl}}/assets/img/BillyMoses.jpeg" width="250" />
+		<img src="{{site.baseurl}}/assets/img/MosesBilly.jpeg" width="250" />
 	</a>
 </p>
 
@@ -29,7 +29,7 @@ weight: 95
 
 <p align="center">
 	<a rel="nofollow">	
-		<img src="{{site.baseurl}}/assets/img/PienaarJacques.jpeg" width="250" />
+		<img src="{{site.baseurl}}/assets/img/PienaarJacques.jpg" width="250" />
 	</a>
 </p>
 
