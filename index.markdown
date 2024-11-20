@@ -5,36 +5,28 @@
 layout: home
 ---
 
-This workshop aims to bring together researchers interested in automatic differentiation methods, tools and frameworks, and practitioners who need derivatives and gradients for parallel or HPC workloads, in application areas spanning applied mathematics, scientific computing, computational engineering, and machine learning. The workshop features invited talks from both the framework developer and user communities, and is soliciting extended abstracts for contributed talks on topics including, but not limited to
+This workshop, much like its predecessor at PPoPP’24, aims to bring together researchers interested in methods, tools and frameworks relying on automatic differentiation, and practitioners who need derivatives for parallel or HPC workloads, in application areas spanning applied mathematics, scientific computing, computational engineering, and machine learning. The workshop is to feature invited talks from both the framework developer and user communities, and is soliciting extended abstracts for contributed talks on topics including, but not limited to:
 
-* Automatic differentiation tool development
-* Model, theory, and method development for the differentiation of computer programs
-* Differentiable languages, or domain-specific languages or frameworks that support differentiation or gradient computations
-* Case studies and experiences of computing derivatives of parallel or large-scale computations, or of trying to scale differentiable applications
-* Approaches closely related to differentiation, which may include aspects of e.g. probabilistic programming, uncertainty quantification, or error estimation
+* Automatic differentiation tool development,
+* Model, theory and method development for the differentiation of parallel computer programs,
+* Differentiable languages, or domain-specific languages or frameworks that support differentiation or gradient computations,
+* Case studies and experiences of computing derivatives of parallel or large scale computations, or of trying to scale differentiable applications, and
+* Approaches closely related to differentiation, which may include aspects of e.g. probabilistic programming, uncertainty quantification, or error estimation.
+
+While we encourage novel submissions, we also accept talks on previously published material. The workshop is intended as an informal venue for discussions between developers and users about ongoing or unfinished work, as well as existing methods that are not yet widely used by all relevant communities. Accepted abstracts will be shared on the workshop website, but will otherwise not lead to a formal publication.
 
 ## Agenda
 
-On the 2nd of March, in [Ochil 2](https://ppopp24.sigplan.org/room/PPoPP-2024-venue-ochil-2):
-
-1. 8:30 AM - 8:40 AM, Opening Remarks
-2. 8:40 AM - 9:20 AM, Invited Talk, [Tzu-Mao Li](https://cseweb.ucsd.edu/~tzli/)
-3. 9:20 AM - 10:00 AM, Invited Talk, [Alex Zinenko](https://ozinenko.com)
-4. 10:00 AM - 10:30 AM, Contributed Talk, [Manuel Drehwald](https://www.linkedin.com/in/manuel-drehwald)
-5. 10:30 AM - 10:50 AM, Coffee Break
-6. 10:50 AM - 11:30 AM, Invited Talk, [Harshitha Menon](http://www.harshithamenon.com)
-7. 11:30 AM - 12:10 AM, Invited Talk, [Francois Lanusse](https://flanusse.net)
-8. 12:10 AM - 12:40 PM, Contributed Talk, [Florian List](https://ucris.univie.ac.at/portal/en/persons/florian-list(33aa2256-5c70-4fd7-84ef-ba2d9e66ed44).html)
-9. 12:40 PM - 12:50 PM, Closing Remarks
+TBD
 
 ## Invited Speakers
 
-* [Harshitha Menon](http://www.harshithamenon.com)
-* [Tzu-Mao Li](https://cseweb.ucsd.edu/~tzli/)
-* [Alex Zinenko](https://ozinenko.com)
-* [Francois Lanusse](https://flanusse.net)
+* [William S. Moses](https://wsmoses.com/academic/)
+* [Kamil Khan](https://www.eng.mcmaster.ca/chemeng/faculty/dr-kamil-khan/)
+* [Jacques Pienaar](https://research.google/people/jacquespienaar/?&type=google)
 
 ## Organizers
 
 * [Jan Hueckelheim](https://www.anl.gov/profile/jan-huckelheim)
+* [Patrick Heimbach](https://www.jsg.utexas.edu/researcher/patrick_heimbach/)
 * [Ludger Paehler](https://ludger.fyi)
