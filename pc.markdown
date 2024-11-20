@@ -2,6 +2,7 @@
 layout: page
 title: PC
 permalink: /pc/
+order: 3
 ---
 
 * [Nacime Bouziani](https://www.imperial.ac.uk/people/n.bouziani18)
