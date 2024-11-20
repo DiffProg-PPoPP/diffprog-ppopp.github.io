@@ -19,13 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Workshop on Differentiable Parallel Programming
-email: diffprog.ppopp24@gmail.com
+email: diffprog.ppopp@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Workshop on Differentiable Parallel Programming at the ACM SIGPLAN
-  Symposium on Principles and Practice of Parallel Programming 2024.
+  Symposium on Principles and Practice of Parallel Programming.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  DiffProg-PPoPP24
+github_username:  DiffProg-PPoPP
 
 # Build settings
 theme: minima
