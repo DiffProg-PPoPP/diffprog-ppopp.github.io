@@ -23,7 +23,7 @@ weight: 95
 	</a>
 </p>
 
-<h3 align='center'>Abstract</h3>
+<h3 align='center'>Associate Professor, McMaster University</h3>
 
 <h2 align='center'>Jacques Pienaar</h2>
 
