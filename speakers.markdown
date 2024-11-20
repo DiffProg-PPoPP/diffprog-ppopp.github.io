@@ -9,13 +9,11 @@ weight: 95
 
 <p align="center">
 	<a rel="nofollow">	
-		<img src="{{site.baseurl}}/assets/img/HueckelheimJan.jpeg" width="250" />
+		<img src="{{site.baseurl}}/assets/img/BillyMoses.jpeg" width="250" />
 	</a>
 </p>
 
-<h3 align='center'>Abstract</h3>
-
-TBC
+<h3 align='center'>Assistant Professor, University of Illinois at Urbana-Champaign & Researcher, Google</h3>
 
 <h2 align='center'>Kamil Khan</h2>
 
@@ -27,16 +25,12 @@ TBC
 
 <h3 align='center'>Abstract</h3>
 
-TBC
-
 <h2 align='center'>Jacques Pienaar</h2>
 
 <p align="center">
 	<a rel="nofollow">	
-		<img src="{{site.baseurl}}/assets/img/HueckelheimJan.jpeg" width="250" />
+		<img src="{{site.baseurl}}/assets/img/PienaarJacques.jpeg" width="250" />
 	</a>
 </p>
 
-<h3 align='center'>Abstract</h3>
-
-TBC
+<h3 align='center'>Software Engineer, Google</h3>
