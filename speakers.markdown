@@ -2,7 +2,7 @@
 layout: page
 title: Speakers
 permalink: /speakers/
-order: 2
+navigation_weight: 90
 ---
 
 <h2 align='center'>William S. Moses</h2>

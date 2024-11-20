@@ -2,7 +2,7 @@
 layout: page
 title: OC
 permalink: /oc/
-order: 4
+navigation_weight: 80
 ---
 
 <h2 align='center'>Jan Hueckelheim</h2>
