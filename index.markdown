@@ -15,9 +15,11 @@ This workshop, much like its predecessor at PPoPP’24, aims to bring together r
 
 While we encourage novel submissions, we also accept talks on previously published material. The workshop is intended as an informal venue for discussions between developers and users about ongoing or unfinished work, as well as existing methods that are not yet widely used by all relevant communities. Accepted abstracts will be shared on the workshop website, but will otherwise not lead to a formal publication.
 
-## Agenda
+## Important Dates
 
-TBD
+* Submission Deadline: December 20, 23:59 AOE
+* Author Notification: January 10, 23:59 AOE
+* Conference Date: March 1 or 2
 
 ## Invited Speakers
 
