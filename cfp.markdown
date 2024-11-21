@@ -21,8 +21,9 @@ References do not count towards the page limit. The review process is single-bli
 
 ## Important Dates
 
-* Abstract Submission: December 22, 23:59 AOE
-* Notification: January 8, 23:59 AOE
+* Submission Deadline: December 20, 23:59 AOE
+* Author Notification: January 10, 23:59 AOE
+* Conference Date: March 1 or 2
 
 ## Submission Portal
 
