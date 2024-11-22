@@ -27,8 +27,8 @@ References do not count towards the page limit. The review process is single-bli
 
 ## Submission Portal
 
-We use [OpenReview](https://openreview.net) for submissions, please submit your abstracts here:
+We use HotCRP for submissions. Please submit your abstracts here:
 
 <h1 align='center'>
-  <a href="https://openreview.net">Submission Link (not active yet)</a>
+  <a href="https://diffprog-ppopp25.hotcrp.com/">Submission Link</a>
 </h1>
