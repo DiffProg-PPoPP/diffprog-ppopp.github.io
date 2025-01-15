@@ -19,7 +19,7 @@ weight: 95
 
 <p align="center">
 	<a rel="nofollow">	
-		<img src="{{site.baseurl}}/assets/img/HueckelheimJan.jpeg" width="250" />
+		<img src="{{site.baseurl}}/assets/img/KamilKhan.jpg" width="250" />
 	</a>
 </p>
 
