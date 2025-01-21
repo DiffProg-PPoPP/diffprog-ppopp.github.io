@@ -19,7 +19,7 @@ While we encourage novel submissions, we also accept talks on previously publish
 
 * Submission Deadline: December 20, 23:59 AOE, 2024
 * Author Notification: January 21, 23:59 AOE, 2025
-* Conference Date: March 2, 2025, morning session, subject to change until official [PPoPP program](https://ppopp25.sigplan.org/track/PPoPP-2025-workshops-and-tutorials) is announced
+* Workshop Date: March 2, 2025, morning session, subject to change until official [PPoPP program](https://ppopp25.sigplan.org/track/PPoPP-2025-workshops-and-tutorials) is announced
 
 ## Invited Speakers
 
