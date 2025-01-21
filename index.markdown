@@ -5,7 +5,7 @@
 layout: home
 ---
 
-This workshop, much like its predecessor at [PPoPP’24](https://ppopp24.sigplan.org/track/PPoPP-2024-workshops-and-tutorials#program), aims to bring together researchers interested in methods, tools and frameworks relying on automatic differentiation, and practitioners who need derivatives for parallel or HPC workloads, in application areas spanning applied mathematics, scientific computing, computational engineering, and machine learning. The workshop is features invited talks from both the framework developer and user communities, and solicited extended abstracts for contributed talks on topics including, but not limited to:
+This workshop at [PPoPP'25](https://ppopp25.sigplan.org), much like its predecessor at [PPoPP’24](https://ppopp24.sigplan.org/track/PPoPP-2024-workshops-and-tutorials#program), aims to bring together researchers interested in methods, tools and frameworks relying on automatic differentiation, and practitioners who need derivatives for parallel or HPC workloads, in application areas spanning applied mathematics, scientific computing, computational engineering, and machine learning. The workshop is features invited talks from both the framework developer and user communities, and solicited extended abstracts for contributed talks on topics including, but not limited to:
 
 * Automatic differentiation tool development,
 * Model, theory and method development for the differentiation of parallel computer programs,
@@ -17,9 +17,9 @@ While we encourage novel submissions, we also accept talks on previously publish
 
 ## Important Dates
 
-* Submission Deadline: December 20, 23:59 AOE
-* Author Notification: January 21, 23:59 AOE
-* Conference Date: March 2, morning session, subject to change until official [PPoPP program](https://ppopp25.sigplan.org/track/PPoPP-2025-workshops-and-tutorials) is announced
+* Submission Deadline: December 20, 23:59 AOE, 2024
+* Author Notification: January 21, 23:59 AOE, 2025
+* Conference Date: March 2, 2025, morning session, subject to change until official [PPoPP program](https://ppopp25.sigplan.org/track/PPoPP-2025-workshops-and-tutorials) is announced
 
 ## Invited Speakers
 
