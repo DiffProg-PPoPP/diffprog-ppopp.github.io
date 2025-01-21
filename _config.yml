@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Workshop on Differentiable Parallel Programming
+title: Workshop on Differentiable Parallel Programming 2025
 email: diffprog.ppopp@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Workshop on Differentiable Parallel Programming at the ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming 2025.
