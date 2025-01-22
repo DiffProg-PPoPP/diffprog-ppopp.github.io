@@ -2,7 +2,7 @@
 layout: page
 title: CfP
 permalink: /cfp/
-weight: 100
+weight: 80
 ---
 
 We are soliciting extended abstracts for contributed talks on topics including, but not limited to:
