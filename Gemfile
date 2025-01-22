@@ -33,3 +33,15 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "webrick", "~> 1.8"
+gem "addressable", "~> 2.8.5"
+gem "i18n", "~> 1.14.1"
+gem "jekyll-sass-converter", "~> 2.2.0"
+gem "mercenary", "~> 0.4.0"
+gem "terminal-table", "~> 2.0.0"
+gem "public_suffix", "~> 5.0.3"
+gem "concurrent-ruby", "~> 1.2.2"
+gem "sassc", "~> 2.4.0"
+gem "listen", "~> 3.8.0"
+gem "rexml", "~> 3.2.6"
+gem "ffi", "~> 1.16.3"
+gem "rb-inotify", "~> 0.10.1"
