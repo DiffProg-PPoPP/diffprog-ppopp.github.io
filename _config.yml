@@ -28,6 +28,7 @@ github_username:  DiffProg-PPoPP
 
 # Build settings
 theme: minima
+color_scheme: wider
 #plugins:
 #  - jekyll-feed
 
