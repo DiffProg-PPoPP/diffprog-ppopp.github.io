@@ -5,4 +5,8 @@ permalink: /program/
 weight: 100
 ---
 
-Coming soon!
+| Month    | Savings |
+| -------- | ------- |
+| January  | $250    |
+| February | $80     |
+| March    | $420    |
