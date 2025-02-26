@@ -24,7 +24,6 @@ While we encourage novel submissions, we also accept talks on previously publish
 ## Invited Speakers
 
 * [William S. Moses](https://wsmoses.com/academic/)
-* [Kamil Khan](https://www.eng.mcmaster.ca/chemeng/faculty/dr-kamil-khan/)
 * [Jacques Pienaar](https://research.google/people/jacquespienaar/?&type=google)
 
 ## Organizers
