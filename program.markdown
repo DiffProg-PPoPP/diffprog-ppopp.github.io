@@ -16,4 +16,3 @@ weight: 100
 | 11:10-11:35 | Contributed Talk | Vimarsh Sathia | Compiler Optimizations for Higher-Order Automatic Differentiation |
 | 11:35-12:00 | Contributed Talk | Songchen Tan | TaylorDiff.jl: Efficient and Versatile Higher-Order Derivatives in Julia |
 | 12:00-12:05 | Closing Words | Jan Hueckelheim | |
-
