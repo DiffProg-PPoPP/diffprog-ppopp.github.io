@@ -17,7 +17,7 @@ We encourage submissions on novel as well as previously published material. The 
 
 ## Important Dates
 
-* Submission Deadline: January 2, 2026, 23:59 AOE
+* Submission Deadline: ~~January 2~~ **Extended: January 21**, 2026, 23:59 AOE
 * Author Notification: Rolling review
 
 ## Submission Portal
